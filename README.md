@@ -6,7 +6,7 @@
 где и какие мероприятия находятся в поиске спикеров.
 В этом списке собраны все ссылки на прием заявок, которые удалось найти.
 
-Если не хватает ссылки на CFP? создайте pull-request! 
+Не хватает ссылки на CFP? создайте pull-request!
 
 [правила редактирования](CONTRIBUTION.md)
 
@@ -16,7 +16,7 @@
 
 | Конференция | Локация | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [JavaScript fwdays](https://fwdays.com/en/event/js-fwdays-2019) | Киев, Украина | 16 марта, 2019 | 16 январь, 2019 | [EN](https://docs.google.com/forms/d/e/1FAIpQLSfd_0wYqSJ3nCdVtR_FBDGwzzm7VDnYfTvcK3QA3BsWceQ4eg/viewform) |
+| [JavaScript fwdays](https://fwdays.com/en/event/js-fwdays-2019) | Киев, Украина | 16 марта, 2019 | 16 января, 2019 | [EN](https://docs.google.com/forms/d/e/1FAIpQLSfd_0wYqSJ3nCdVtR_FBDGwzzm7VDnYfTvcK3QA3BsWceQ4eg/viewform) |
 | [CodeFest](https://2019.codefest.ru/) | Новосибирск, Россия | 30 - 31 марта, 2019 | 15 февраля, 2019 | [RU](https://2019.codefest.ru/speakers/ru/call-for-papers/), [EN](https://2019.codefest.ru/speakers/en/call-for-papers/) |
 
 ### Апрель
