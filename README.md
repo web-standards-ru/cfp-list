@@ -33,7 +33,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [HolyJS Piter](https://holyjs-piter.ru/) | Санкт-Петербург, Россия | 24—25 мая, 2019 | 11 марта, 2019 | [RU](https://holyjs-piter.ru/callforpapers/), [EN](https://holyjs-piter.ru/en/callforpapers/) |
-| [UWDC](https://uwdc.ru) | Челяинск, Россия | Май, 2019 (дата уточняется) | … | [RU](mailto:ai@unit6.ru) |
+| [UWDC](https://uwdc.ru) | Челябинск, Россия | Май, 2019 (дата уточняется) | … | [RU](mailto:ai@unit6.ru) |
 
 ### Июль
 
