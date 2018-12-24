@@ -31,6 +31,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [JS Fest](http://jsfest.com.ua/) | Киев, Украина | 5—6 апреля, 2019 | 23 февраля, 2019 | [RU](http://jsfest.com.ua/speakers_rus.html), [UA](http://jsfest.com.ua/speakers.html), [EN](http://jsfest.com.ua/speakers_eng.html) |
+| [DUMP](https://dump-conf.ru/) | Екатеринбург, Россия | 19 апреля, 2019 | 20 февраля, 2019 | [RU](https://http://t.me/kataeva) |
 | [Secon](https://2019.secon.ru/) | Пенза, Россия | 19—20 апреля, 2019 | … | [RU](https://2019.secon.ru/forspeakers) |
 | [Стачка](https://nastachku.ru/) | Ульяновск, Россия | 26—27 апреля, 2019 | … | [RU](https://nastachku.ru/speaker), [EN](https://nastachku.ru/speaker?sl=en) |
 
@@ -53,6 +54,12 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Frontend Conf](http://frontendconf.ru/moscow/2019) | Москва, Россия | 3—4 октября, 2019 | 5 августа | [RU](https://conf.ontico.ru/lectures/propose?conference=fc2019-moscow) |
+
+### Ноябрь
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [DUMP Казань](https://dump-kazan.ru/) | Казань, Россия | 29 ноября, 2019 | 20 октября, 2019 | [RU](https://dump-kazan.ru/) |
 
 
 
