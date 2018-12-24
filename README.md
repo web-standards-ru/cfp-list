@@ -31,7 +31,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [JS Fest](http://jsfest.com.ua/) | Киев, Украина | 5—6 апреля, 2019 | 23 февраля, 2019 | [RU](http://jsfest.com.ua/speakers_rus.html), [UA](http://jsfest.com.ua/speakers.html), [EN](http://jsfest.com.ua/speakers_eng.html) |
-| [DUMP](https://dump-conf.ru/) | Екатеринбург, Россия | 19 апреля, 2019 | 20 февраля, 2019 | [RU](https://http://t.me/kataeva) |
+| [DUMP](https://dump-conf.ru/) | Екатеринбург, Россия | 19 апреля, 2019 | 20 февраля, 2019 | [RU](https://t.me/kataeva) |
 | [Secon](https://2019.secon.ru/) | Пенза, Россия | 19—20 апреля, 2019 | … | [RU](https://2019.secon.ru/forspeakers) |
 | [Стачка](https://nastachku.ru/) | Ульяновск, Россия | 26—27 апреля, 2019 | … | [RU](https://nastachku.ru/speaker), [EN](https://nastachku.ru/speaker?sl=en) |
 
