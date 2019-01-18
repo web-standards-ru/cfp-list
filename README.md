@@ -23,7 +23,6 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [JavaScript fwdays](https://fwdays.com/en/event/js-fwdays-2019) | Киев, Украина | 16 марта, 2019 | 16 января, 2019 | [EN](https://docs.google.com/forms/d/e/1FAIpQLSfd_0wYqSJ3nCdVtR_FBDGwzzm7VDnYfTvcK3QA3BsWceQ4eg/viewform) |
 | [CodeFest](https://2019.codefest.ru/) | Новосибирск, Россия | 30—31 марта, 2019 | 15 февраля, 2019 | [RU](https://2019.codefest.ru/speakers/ru/call-for-papers/), [EN](https://2019.codefest.ru/speakers/en/call-for-papers/) |
 
 ### Апрель
@@ -48,6 +47,12 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [OdessaJS](http://odessajs.org/) | Одесса, Украина | 20—21 июля, 2019 | … | [EN](https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform) |
+
+### Август
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [The Rolling Scopes](https://rsconf.by/) | Минск, Беларусь | 9-11 августа, 2019 | … | [EN, RU, BY](https://docs.google.com/forms/d/e/1FAIpQLSe1Mx_HLnAm09pB0ngzx_eCBJg29mzUdM0dLfE2BfhjdaCy6A/viewform) |
 
 ### Октябрь
 
