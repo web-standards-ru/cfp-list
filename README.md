@@ -49,6 +49,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [OdessaJS](http://odessajs.org/) | Одесса, Украина | 20—21 июля, 2019 | … | [EN](https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform) |
+| [VinnytsiaJS](http://vinnytsiajs.org/) | Винница, Украина | июль (дата уточняется), 2019 | 21 июля | [EN, UA, RU](http://vinnytsiajs.org/call-for-papers/) |
 
 ### Август
 
