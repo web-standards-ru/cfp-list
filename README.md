@@ -36,6 +36,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [HolyJS Piter](https://holyjs-piter.ru/) | Санкт-Петербург, Россия | 24—25 мая, 2019 | 11 марта, 2019 | [RU](https://holyjs-piter.ru/callforpapers/), [EN](https://holyjs-piter.ru/en/callforpapers/) |
+| [React Conf Armenia](https://reactconf.am/) | Ереван, Армения | 25 мая, 2019 | 10 апреля, 2019 | [RU, AM, EN](https://docs.google.com/forms/d/e/1FAIpQLSeGedK-IMZ7HQMLaqBdO4cOTmShfKtap_JvqXZdIRDUWFf8NA/viewform) |
 | [UWDC](https://uwdc.ru) | Челябинск, Россия | Май, 2019 (дата уточняется) | … | [RU](mailto:ai@unit6.ru) |
 | [Frontend Conf](http://frontendconf.ru/moscow/2019) в рамках РИТ++ | Москва, Россия | 27—28 мая, 2019 | 25 марта | [RU](https://conf.ontico.ru/lectures/propose?conference=fc2019-rit) |
 
