@@ -24,9 +24,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [JS Fest](http://jsfest.com.ua/) | Киев, Украина | 5—6 апреля, 2019 | 23 февраля, 2019 | [RU](http://jsfest.com.ua/speakers_rus.html), [UA](http://jsfest.com.ua/speakers.html), [EN](http://jsfest.com.ua/speakers_eng.html) |
 | [WSD](https://wsd.events/2019/04/13/) | Москва, Россия | 13 апреля, 2019 | … | [RU](https://wsd.events/2019/04/13/) |
-| [DUMP](https://dump-ekb.ru/) | Екатеринбург, Россия | 19 апреля, 2019 | 20 февраля, 2019 | [RU](https://dump-ekb.ru/frontend) |
 | [Secon](https://2019.secon.ru/) | Пенза, Россия | 19—20 апреля, 2019 | … | [RU](https://2019.secon.ru/forspeakers) |
 | [Стачка](https://nastachku.ru/) | Ульяновск, Россия | 26—27 апреля, 2019 | … | [RU](https://nastachku.ru/speaker), [EN](https://nastachku.ru/speaker?sl=en) |
 | [Dev Pro](https://devpro.io/) | Томск, Россия | 26–27 апреля, 2019 | … | [RU, EN](mailto://info@devpro.io) |
