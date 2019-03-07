@@ -38,6 +38,12 @@
 | [UWDC](https://uwdc.ru) | Челябинск | Май, 2019 (дата уточняется) | … | [RU](mailto:ai@unit6.ru) |
 | [Frontend Conf](http://frontendconf.ru/moscow/2019) в рамках РИТ++ | Москва | 27—28 мая, 2019 | 25 марта | [RU](https://conf.ontico.ru/lectures/propose?conference=fc2019-rit) |
 
+### Июнь
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [BeerJS Summit 2019](https://teletype.in/@beerjssummit/B1MHxF0I4) | Минск | 29 июня | … | [RU](https://goo.gl/forms/DP9isGyNOCnPsZ7o1)
+
 ### Июль
 
 | Конференция | Место | Дата | Дедлайн | CFP |
