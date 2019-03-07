@@ -42,7 +42,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [BeerJS Summit 2019](https://teletype.in/@beerjssummit/B1MHxF0I4) | Минск | 29 июня | … | [RU](https://goo.gl/forms/DP9isGyNOCnPsZ7o1)
+| [BeerJS Summit 2019](https://teletype.in/@beerjssummit/B1MHxF0I4) | Минск | 29 июня | 7 июня | [RU](https://goo.gl/forms/DP9isGyNOCnPsZ7o1)
 
 ### Июль
 
