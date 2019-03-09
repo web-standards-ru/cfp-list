@@ -42,6 +42,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [DevConf](https://devconf.ru/ru) | Москва | 21 июня | 28 апреля | [RU](https://conf.guru/ru/c/devconf2019/offer)
 | [ChernivtsiJS](https://chernivtsi.js.org/) | Черновцы | 22-23 июня | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSdEPNaOmaA2OgCV9uM3JsK8RDvI7gXz1XweKwiI-ev73CozoQ/viewform)
 | [BeerJS Summit 2019](https://teletype.in/@beerjssummit/B1MHxF0I4) | Минск | 29 июня | 7 июня | [RU](https://goo.gl/forms/DP9isGyNOCnPsZ7o1)
 
