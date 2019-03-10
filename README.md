@@ -33,6 +33,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [NodeUkraine 2019](https://nodeukraine.org.ua/) | Киев | 18 мая, 2019 | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSfMBr0yFs9zRt5T6GoM7MRYS5XF481aGND2pCh9DUs03FTD3w/viewform) |
 | [HolyJS Piter](https://holyjs-piter.ru/) | Санкт-Петербург | 24—25 мая, 2019 | 11 марта, 2019 | [RU](https://holyjs-piter.ru/callforpapers/), [EN](https://holyjs-piter.ru/en/callforpapers/) |
 | [React Conf Armenia](https://reactconf.am/) | Ереван | 25 мая, 2019 | 10 апреля, 2019 | [RU, AM, EN](https://docs.google.com/forms/d/e/1FAIpQLSeGedK-IMZ7HQMLaqBdO4cOTmShfKtap_JvqXZdIRDUWFf8NA/viewform) |
 | [UWDC](https://uwdc.ru) | Челябинск | Май, 2019 (дата уточняется) | … | [RU](mailto:ai@unit6.ru) |
