@@ -17,7 +17,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [Kolesa Conf](http://kolesa-conf.kz/) | Алматы | 12 апреля, 2019 | 14 марта | [RU](mailto://manchenko@kolesa.kz) |
+| [Kolesa Conf](http://kolesa-conf.kz/) | Алматы | 12 апреля, 2019 | 14 марта | [RU](https://goo.gl/forms/1Gmig0copcHAB1Q12) |
 | [WSD](https://wsd.events/2019/04/13/) | Москва | 13 апреля, 2019 | … | [RU](https://wsd.events/2019/04/13/) |
 | [Secon](https://2019.secon.ru/) | Пенза | 19—20 апреля, 2019 | … | [RU](https://2019.secon.ru/forspeakers) |
 | [Стачка](https://nastachku.ru/) | Ульяновск | 26—27 апреля, 2019 | … | [RU](https://nastachku.ru/speaker), [EN](https://nastachku.ru/speaker?sl=en) |
