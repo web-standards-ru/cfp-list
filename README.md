@@ -17,7 +17,6 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [Kolesa Conf](http://kolesa-conf.kz/) | Алматы | 12 апреля, 2019 | 14 марта | [RU](https://goo.gl/forms/1Gmig0copcHAB1Q12) |
 | [WSD](https://wsd.events/2019/04/13/) | Москва | 13 апреля, 2019 | … | [RU](https://wsd.events/2019/04/13/) |
 | [Secon](https://2019.secon.ru/) | Пенза | 19—20 апреля, 2019 | … | [RU](https://2019.secon.ru/forspeakers) |
 | [Стачка](https://nastachku.ru/) | Ульяновск | 26—27 апреля, 2019 | … | [RU](https://nastachku.ru/speaker), [EN](https://nastachku.ru/speaker?sl=en) |
@@ -28,7 +27,6 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [NodeUkraine 2019](https://nodeukraine.org.ua/) | Киев | 18 мая, 2019 | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSfMBr0yFs9zRt5T6GoM7MRYS5XF481aGND2pCh9DUs03FTD3w/viewform) |
-| [HolyJS Piter](https://holyjs-piter.ru/) | Санкт-Петербург | 24—25 мая, 2019 | 11 марта, 2019 | [RU](https://holyjs-piter.ru/callforpapers/), [EN](https://holyjs-piter.ru/en/callforpapers/) |
 | [React Conf Armenia](https://reactconf.am/) | Ереван | 25 мая, 2019 | 10 апреля, 2019 | [RU, AM, EN](https://docs.google.com/forms/d/e/1FAIpQLSeGedK-IMZ7HQMLaqBdO4cOTmShfKtap_JvqXZdIRDUWFf8NA/viewform) |
 | [UWDC](https://uwdc.ru) | Челябинск | Май, 2019 (дата уточняется) | … | [RU](mailto:ai@unit6.ru) |
 | [Frontend Conf](http://frontendconf.ru/moscow/2019) в рамках РИТ++ | Москва | 27—28 мая, 2019 | 25 марта | [RU](https://conf.ontico.ru/lectures/propose?conference=fc2019-rit) |
