@@ -62,4 +62,5 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [HolyJS Moscow](https://holyjs-moscow.ru/) | Москва | 8-9 ноября, 2019 | … | [RU](https://holyjs-moscow.ru/callforpapers/), [EN](https://holyjs-moscow.ru/en/callforpapers/) |
 | [DUMP Казань](https://dump-kazan.ru/) | Казань | 29 ноября, 2019 | 20 октября, 2019 | [RU](https://dump-kazan.ru/) |
