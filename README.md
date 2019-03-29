@@ -28,13 +28,13 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [NodeUkraine 2019](https://nodeukraine.org.ua/) | Киев | 18 мая, 2019 | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSfMBr0yFs9zRt5T6GoM7MRYS5XF481aGND2pCh9DUs03FTD3w/viewform) |
 | [React Conf Armenia](https://reactconf.am/) | Ереван | 25 мая, 2019 | 10 апреля, 2019 | [RU, AM, EN](https://docs.google.com/forms/d/e/1FAIpQLSeGedK-IMZ7HQMLaqBdO4cOTmShfKtap_JvqXZdIRDUWFf8NA/viewform) |
-| [UWDC](https://uwdc.ru) | Челябинск | Май, 2019 (дата уточняется) | … | [RU](mailto:ai@unit6.ru) |
 | [Frontend Conf](http://frontendconf.ru/moscow/2019) в рамках РИТ++ | Москва | 27—28 мая, 2019 | 25 марта | [RU](https://conf.ontico.ru/lectures/propose?conference=fc2019-rit) |
 
 ### Июнь
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [UWDC](https://uwdc.ru) | Челябинск | 1 июня, 2019 | … | [RU](mailto:ai@unit6.ru) |
 | [DevConf](https://devconf.ru/ru) | Москва | 21 июня | 28 апреля | [RU](https://conf.guru/ru/c/devconf2019/offer)
 | [ChernivtsiJS](https://chernivtsi.js.org/) | Черновцы | 22-23 июня | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSdEPNaOmaA2OgCV9uM3JsK8RDvI7gXz1XweKwiI-ev73CozoQ/viewform)
 | [BeerJS Summit 2019](https://teletype.in/@beerjssummit/B1MHxF0I4) | Минск | 29 июня | 7 июня | [RU](https://goo.gl/forms/DP9isGyNOCnPsZ7o1)
