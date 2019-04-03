@@ -37,12 +37,12 @@
 | [UWDC](https://uwdc.ru) | Челябинск | 1 июня, 2019 | … | [RU](mailto:ai@unit6.ru) |
 | [DevConf](https://devconf.ru/ru) | Москва | 21 июня | 28 апреля | [RU](https://conf.guru/ru/c/devconf2019/offer)
 | [ChernivtsiJS](https://chernivtsi.js.org/) | Черновцы | 22-23 июня | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSdEPNaOmaA2OgCV9uM3JsK8RDvI7gXz1XweKwiI-ev73CozoQ/viewform)
-| [BeerJS Summit 2019](https://teletype.in/@beerjssummit/B1MHxF0I4) | Минск | 29 июня | 7 июня | [RU](https://goo.gl/forms/DP9isGyNOCnPsZ7o1)
 
 ### Июль
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [BeerJS Summit 2019](https://teletype.in/@beerjssummit/B1MHxF0I4) | Минск | 20 июля | 7 июня | [RU](https://goo.gl/forms/DP9isGyNOCnPsZ7o1)|
 | [OdessaJS](http://odessajs.org/) | Одесса | 20—21 июля, 2019 | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform) |
 | [VinnytsiaJS](http://vinnytsiajs.org/) | Винница | июль (дата уточняется), 2019 | 21 июля | [EN, UA, RU](http://vinnytsiajs.org/call-for-papers/) |
 
