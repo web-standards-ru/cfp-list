@@ -44,12 +44,12 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [BeerJS Summit 2019](https://teletype.in/@beerjssummit/B1MHxF0I4) | Минск | 20 июля | 7 июня | [RU](https://goo.gl/forms/DP9isGyNOCnPsZ7o1)|
 | [OdessaJS](http://odessajs.org/) | Одесса | 20—21 июля, 2019 | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform) |
-| [VinnytsiaJS](http://vinnytsiajs.org/) | Винница | июль (дата уточняется), 2019 | 21 июля | [EN, UA, RU](http://vinnytsiajs.org/call-for-papers/) |
 
 ### Август
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [VinnytsiaJS](http://vinnytsiajs.org/) | Винница | 3 августа, 2019 | 21 июля | [EN, UA, RU](http://vinnytsiajs.org/call-for-papers/) |
 | [The Rolling Scopes](https://rsconf.by/) | Минск | 9-11 августа, 2019 | … | [EN, RU, BY](https://docs.google.com/forms/d/e/1FAIpQLSe1Mx_HLnAm09pB0ngzx_eCBJg29mzUdM0dLfE2BfhjdaCy6A/viewform) |
 
 ### Октябрь
