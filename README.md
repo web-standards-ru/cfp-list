@@ -49,6 +49,7 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [VinnytsiaJS](http://vinnytsiajs.org/) | Винница | 3 августа, 2019 | 21 июля | [EN, UA, RU](http://vinnytsiajs.org/call-for-papers/) |
 | [The Rolling Scopes](https://rsconf.by/) | Минск | 9-11 августа, 2019 | … | [EN, RU, BY](https://docs.google.com/forms/d/e/1FAIpQLSe1Mx_HLnAm09pB0ngzx_eCBJg29mzUdM0dLfE2BfhjdaCy6A/viewform) |
+| Krasnodar Dev Conf 2019 | Краснодар | 24-25 августа, 2019 | … | [RU](https://forms.yandex.ru/u/5c9e04c219621d276214ff7a/) |
 
 ### Октябрь
 
