@@ -39,7 +39,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [VinnytsiaJS](http://vinnytsiajs.org/) | Винница | 3 августа, 2019 | 21 июля | [EN, UA, RU](http://vinnytsiajs.org/call-for-papers/) |
-| [The Rolling Scopes](https://rsconf.by/) | Минск | 9-11 августа, 2019 | … | [EN, RU, BY](https://docs.google.com/forms/d/e/1FAIpQLSe1Mx_HLnAm09pB0ngzx_eCBJg29mzUdM0dLfE2BfhjdaCy6A/viewform) |
+| [The Rolling Scopes](https://rsconf.by/) | Минск | 9-11 августа, 2019 | 15 мая | [EN, RU, BY](https://docs.google.com/forms/d/e/1FAIpQLSe1Mx_HLnAm09pB0ngzx_eCBJg29mzUdM0dLfE2BfhjdaCy6A/viewform) |
 | Krasnodar Dev Conf 2019 | Краснодар | 24-25 августа, 2019 | … | [RU](https://forms.yandex.ru/u/5c9e04c219621d276214ff7a/) |
 
 
@@ -54,6 +54,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Frontend Conf](http://frontendconf.ru/moscow/2019) | Москва | 3—4 октября, 2019 | 5 августа | [RU](https://conf.ontico.ru/lectures/propose?conference=fc2019-moscow) |
+| [KharkivJS](https://kharkivjs.org/) | Харьков | 5—6 октября, 2019 | 1 июля | [UA, EN, RU](https://docs.google.com/forms/d/e/1FAIpQLSdheoMEKIdJdpLXDGAjYZtZsIbWMiZQ7iZR7biBwfbTUnxYkg/viewform) |
 
 ### Ноябрь
 
