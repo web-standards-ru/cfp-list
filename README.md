@@ -18,8 +18,6 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [NodeUkraine 2019](https://nodeukraine.org.ua/) | Киев | 18 мая, 2019 | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSfMBr0yFs9zRt5T6GoM7MRYS5XF481aGND2pCh9DUs03FTD3w/viewform) |
-| [React Conf Armenia](https://reactconf.am/) | Ереван | 25 мая, 2019 | 10 апреля, 2019 | [RU, AM, EN](https://docs.google.com/forms/d/e/1FAIpQLSeGedK-IMZ7HQMLaqBdO4cOTmShfKtap_JvqXZdIRDUWFf8NA/viewform) |
-| [Frontend Conf](http://frontendconf.ru/moscow/2019) в рамках РИТ++ | Москва | 27—28 мая, 2019 | 25 марта | [RU](https://conf.ontico.ru/lectures/propose?conference=fc2019-rit) |
 
 ### Июнь
 
