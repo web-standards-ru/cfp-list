@@ -13,13 +13,6 @@
 
 ## 2019
 
-### Апрель
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [Стачка](https://nastachku.ru/) | Ульяновск | 26—27 апреля, 2019 | … | [RU](https://nastachku.ru/speaker), [EN](https://nastachku.ru/speaker?sl=en) |
-| [Dev Pro](https://devpro.io/) | Томск | 26–27 апреля, 2019 | … | [RU, EN](mailto://info@devpro.io) |
-
 ### Май
 
 | Конференция | Место | Дата | Дедлайн | CFP |
@@ -50,6 +43,13 @@
 | [VinnytsiaJS](http://vinnytsiajs.org/) | Винница | 3 августа, 2019 | 21 июля | [EN, UA, RU](http://vinnytsiajs.org/call-for-papers/) |
 | [The Rolling Scopes](https://rsconf.by/) | Минск | 9-11 августа, 2019 | … | [EN, RU, BY](https://docs.google.com/forms/d/e/1FAIpQLSe1Mx_HLnAm09pB0ngzx_eCBJg29mzUdM0dLfE2BfhjdaCy6A/viewform) |
 | Krasnodar Dev Conf 2019 | Краснодар | 24-25 августа, 2019 | … | [RU](https://forms.yandex.ru/u/5c9e04c219621d276214ff7a/) |
+
+
+### Сентябрь
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [DevFest Kaliningrad](http://devfest.kantiana.ru/) | Калининград | 14—15 сентября, 2019 | … | [RU](http://devfest.kantiana.ru/speakers) |
 
 ### Октябрь
 
