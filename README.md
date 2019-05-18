@@ -49,6 +49,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Город IT](http://gorod.it/) | Томск | 6—7 сентября, 2019 | … | [RU](http://gorod.it/) |
+| [YaTalks](https://events.yandex.ru/events/meetings/14-sep-2019/) | Екатеринбург | 14 сентября, 2019 | … | [RU](https://forms.yandex.ru/surveys/10012640/) |
 | [DevFest Kaliningrad](http://devfest.kantiana.ru/) | Калининград | 14—15 сентября, 2019 | … | [RU](http://devfest.kantiana.ru/speakers) |
 
 ### Октябрь
