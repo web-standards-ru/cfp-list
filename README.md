@@ -31,7 +31,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [Web Standards Day](https://wsd.events/2019/07/13/) | Санкт-Петербург | 13 июля | … | [RU](https://wsd.events/2019/07/13/)|
+| [Web Standards Days](https://wsd.events/2019/07/13/) | Санкт-Петербург | 13 июля | … | [RU](https://wsd.events/2019/07/13/)|
 | [BeerJS Summit 2019](https://beerjssummit.com/) | Минск | 20 июля | 7 июня | [RU](https://goo.gl/forms/DP9isGyNOCnPsZ7o1)|
 | [OdessaJS](http://odessajs.org/) | Одесса | 20—21 июля, 2019 | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform) |
 
