@@ -13,18 +13,10 @@
 
 ## 2019
 
-### Май
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [NodeUkraine 2019](https://nodeukraine.org.ua/) | Киев | 18 мая, 2019 | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSfMBr0yFs9zRt5T6GoM7MRYS5XF481aGND2pCh9DUs03FTD3w/viewform) |
-
 ### Июнь
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [UWDC](https://uwdc.ru) | Челябинск | 1 июня, 2019 | … | [RU](mailto:ai@unit6.ru) |
-| [DevConf](https://devconf.ru/ru) | Москва | 21 июня | 28 апреля | [RU](https://conf.guru/ru/c/devconf2019/offer)
 | [ChernivtsiJS](https://chernivtsi.js.org/) | Черновцы | 22-23 июня | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSdEPNaOmaA2OgCV9uM3JsK8RDvI7gXz1XweKwiI-ev73CozoQ/viewform)
 
 ### Июль
