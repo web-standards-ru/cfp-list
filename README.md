@@ -13,12 +13,6 @@
 
 ## 2019
 
-### Июнь
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [ChernivtsiJS](https://chernivtsi.js.org/) | Черновцы | 22-23 июня | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSdEPNaOmaA2OgCV9uM3JsK8RDvI7gXz1XweKwiI-ev73CozoQ/viewform)
-
 ### Июль
 
 | Конференция | Место | Дата | Дедлайн | CFP |
@@ -33,7 +27,7 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [VinnytsiaJS](http://vinnytsiajs.org/) | Винница | 3 августа, 2019 | 21 июля | [EN, UA, RU](http://vinnytsiajs.org/call-for-papers/) |
 | [The Rolling Scopes](https://rsconf.by/) | Минск | 9-11 августа, 2019 | 15 мая | [EN, RU, BY](https://docs.google.com/forms/d/e/1FAIpQLSe1Mx_HLnAm09pB0ngzx_eCBJg29mzUdM0dLfE2BfhjdaCy6A/viewform) |
-| Krasnodar Dev Conf 2019 | Краснодар | 24-25 августа, 2019 | … | [RU](https://forms.yandex.ru/u/5c9e04c219621d276214ff7a/) |
+| [Krasnodar Dev Conf 2019](https://krd.dev/events/14) | Краснодар | 24-25 августа, 2019 | … | [RU](https://forms.yandex.ru/u/5c9e04c219621d276214ff7a/) |
 
 
 ### Сентябрь
