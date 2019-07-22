@@ -13,12 +13,6 @@
 
 ## 2019
 
-### Июль
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [OdessaJS](http://odessajs.org/) | Одесса | 20—21 июля, 2019 | … | [EN, UA, RU](https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform) |
-
 ### Август
 
 | Конференция | Место | Дата | Дедлайн | CFP |
