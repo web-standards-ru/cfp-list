@@ -37,6 +37,7 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Frontend Conf](http://frontendconf.ru/moscow/2019) | Москва | 3—4 октября, 2019 | 5 августа | [RU](https://conf.ontico.ru/lectures/propose?conference=fc2019-moscow) |
 | [KharkivJS](https://kharkivjs.org/) | Харьков | 5—6 октября, 2019 | 1 июля | [UA, EN, RU](https://docs.google.com/forms/d/e/1FAIpQLSdheoMEKIdJdpLXDGAjYZtZsIbWMiZQ7iZR7biBwfbTUnxYkg/viewform) |
+| [FrontDays](https://frontdays.ru/) | Тольятти | 26 октября, 2019 | … | [RU](https://docs.google.com/forms/d/e/1FAIpQLSdr_JoPmEpI9skzVM60lCgQPOyuVspYOHETXI5tbRdeunQgGQ/viewform) |
 
 ### Ноябрь
 
