@@ -17,7 +17,6 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [The Rolling Scopes](https://rsconf.by/) | Минск | 9-11 августа, 2019 | 15 мая | [EN, RU, BY](https://docs.google.com/forms/d/e/1FAIpQLSe1Mx_HLnAm09pB0ngzx_eCBJg29mzUdM0dLfE2BfhjdaCy6A/viewform) |
 | [Krasnodar Dev Conf 2019](https://krd.dev/events/14) | Краснодар | 24-25 августа, 2019 | … | [RU](https://forms.yandex.ru/u/5c9e04c219621d276214ff7a/) |
 
 
