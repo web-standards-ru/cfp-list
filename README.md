@@ -36,7 +36,7 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Frontend Conf](http://frontendconf.ru/moscow/2019) | Москва | 3—4 октября, 2019 | 31 августа | [RU](https://conf.ontico.ru/lectures/propose?conference=fc2019-moscow) |
 | [GDG Voronezh](https://gdgvrn.ru/) | Воронеж | 12 октября, 2019 | 15 августа | [RU, EN](https://docs.google.com/forms/d/e/1FAIpQLSe15BaDDwHXX4ZyrgkYLfWsShpwDzPU-OT6a28x2ddPoE8Cbg/viewform) |
-| [КОДИШЬ](https://vk.com/kodishconf) | Брянск | 26 октября, 2019 | 5 сентября | [RU](https://docs.google.com/forms/d/1zHGUQ2RU6wqPh_1DVJsydhhgSCkMkhhbhgecJn7jwQM/viewform) |
+| [КОДИШЬ](http://xn--d1aieq6cya.xn--p1ai) | Брянск | 26 октября, 2019 | 5 сентября | [RU](https://docs.google.com/forms/d/1zHGUQ2RU6wqPh_1DVJsydhhgSCkMkhhbhgecJn7jwQM/viewform) |
 | [FrontDays](https://frontdays.ru/) | Тольятти | 26 октября, 2019 | … | [RU](https://docs.google.com/forms/d/e/1FAIpQLSdr_JoPmEpI9skzVM60lCgQPOyuVspYOHETXI5tbRdeunQgGQ/viewform) |
 
 ### Ноябрь
