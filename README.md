@@ -44,6 +44,7 @@
 | [GDG DevFest Gorky](https://devfest.gdgnn.ru/) | Нижний Новгород | 15-16 ноября, 2019 | 31 августа 2019 | [RU, EN](https://docs.google.com/forms/d/e/1FAIpQLScDPfxdsB9beimUWrfMaf6agZtmdA8n9F6y10pdJvOfL8pU0A/viewform) |
 | [DUMP Казань](https://dump-kazan.ru/) | Казань | 29 ноября, 2019 | 20 октября, 2019 | [RU](https://dump-kazan.ru/) |
 | [DevFest Siberia 2019](https://gdg-siberia.com/) | Новосибирск | 29 ноября — 1 декабря, 2019 | 30 сентября, 2019 | [RU, EN](https://www.papercall.io/dfsiberia19) |
+| [#UFADEVCONF](http://dc.ufacoder.com/) | Уфа | 30 ноября, 2019 | … | [RU](mailto:info@ufacoder.com) |
 
 ### Декабрь
 
