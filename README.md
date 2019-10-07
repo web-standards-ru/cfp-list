@@ -19,7 +19,6 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [GDG Voronezh](https://gdgvrn.ru/) | Воронеж | 12 октября, 2019 | 15 августа | [RU, EN](https://docs.google.com/forms/d/e/1FAIpQLSe15BaDDwHXX4ZyrgkYLfWsShpwDzPU-OT6a28x2ddPoE8Cbg/viewform) |
 | [GDG South DevFest](https://devfest.gdgrnd.ru/) | Ростов-на-Дону | 12 октября, 2019 | 18 сентября | [RU, EN](https://docs.google.com/forms/d/e/1FAIpQLSdEwnh4CDCUQgwnmQR8cLtk8lB4DPNBGRWJBRy9R5MdIPh1mQ/viewform) |
-| [КОДИШЬ](http://xn--d1aieq6cya.xn--p1ai) | Брянск | 26 октября, 2019 | 5 сентября | [RU](https://docs.google.com/forms/d/1zHGUQ2RU6wqPh_1DVJsydhhgSCkMkhhbhgecJn7jwQM/viewform) |
 | [FrontDays](https://frontdays.ru/) | Тольятти | 26 октября, 2019 | … | [RU](https://docs.google.com/forms/d/e/1FAIpQLSdr_JoPmEpI9skzVM60lCgQPOyuVspYOHETXI5tbRdeunQgGQ/viewform) |
 
 ### Ноябрь
