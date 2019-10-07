@@ -41,10 +41,15 @@
 
 ## 2020
 
+### Апрель
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [HolyJS Piter](https://holyjs-piter.ru/) | Санкт-Петербург | 10—11 апреля, 2020 | … | [RU](https://holyjs-piter.ru/callforpapers/), [EN](https://holyjs-piter.ru/en/callforpapers/) |
 
 ### Май
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [RndTech Conf](http://rndtech.pro/) | Ростов-на-Дону | май, 2019 | … | [RU](https://forms.yandex.ru/u/5d4f098043989655231b955c/) |
+| [RndTech Conf](http://rndtech.pro/) | Ростов-на-Дону | май, 2020 | … | [RU](https://forms.yandex.ru/u/5d4f098043989655231b955c/) |
 
