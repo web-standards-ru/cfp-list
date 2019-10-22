@@ -17,8 +17,6 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [GDG Voronezh](https://gdgvrn.ru/) | Воронеж | 12 октября, 2019 | 15 августа | [RU, EN](https://docs.google.com/forms/d/e/1FAIpQLSe15BaDDwHXX4ZyrgkYLfWsShpwDzPU-OT6a28x2ddPoE8Cbg/viewform) |
-| [GDG South DevFest](https://devfest.gdgrnd.ru/) | Ростов-на-Дону | 12 октября, 2019 | 18 сентября | [RU, EN](https://docs.google.com/forms/d/e/1FAIpQLSdEwnh4CDCUQgwnmQR8cLtk8lB4DPNBGRWJBRy9R5MdIPh1mQ/viewform) |
 | [FrontDays](https://frontdays.ru/) | Тольятти | 26 октября, 2019 | … | [RU](https://docs.google.com/forms/d/e/1FAIpQLSdr_JoPmEpI9skzVM60lCgQPOyuVspYOHETXI5tbRdeunQgGQ/viewform) |
 
 ### Ноябрь
@@ -37,6 +35,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [React Native & React Camp](http://2019.reactnative.com.ua/) | Киев | 7 декабря, 2019 | … | [UA, RU, EN](http://2019.reactnative.com.ua/call-for-paper) |
+| [Web Standards Days](https://wsd.events/2019/12/07/) | Минск | 7 декабря, 2019 | … | [RU](https://wsd.events/2019/12/07/) |
 
 ## 2020
 
