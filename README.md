@@ -18,10 +18,6 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [DevFest Khabarovsk](https://www.meetup.com/ru-RU/GDG-Khabarovsk/events/262328150/) | Хабаровск | 2-3 ноября, 2019 | … | [RU, EN](https://docs.google.com/forms/d/e/1FAIpQLScM3_VgJ2RwPhgID239rBqi1vW1DM45QWiwg3nUluI5WHsEvQ/viewform) |
-| [JS Fest 2019 Autumn](http://jsfest.com.ua/) | Киев | 8-9 ноября, 2019 | … | [UA](http://jsfest.com.ua/speakers.html), [RU](http://jsfest.com.ua/speakers_rus.html), [EN](http://jsfest.com.ua/speakers_eng.html) |
-| [HolyJS Moscow](https://holyjs-moscow.ru/) | Москва | 8-9 ноября, 2019 | … | [RU](https://holyjs-moscow.ru/callforpapers/), [EN](https://holyjs-moscow.ru/en/callforpapers/) |
-| [GDG DevFest Gorky](https://devfest.gdgnn.ru/) | Нижний Новгород | 15-16 ноября, 2019 | 31 августа 2019 | [RU, EN](https://docs.google.com/forms/d/e/1FAIpQLScDPfxdsB9beimUWrfMaf6agZtmdA8n9F6y10pdJvOfL8pU0A/viewform) |
-| [DUMP Казань](https://dump-kazan.ru/) | Казань | 29 ноября, 2019 | 20 октября, 2019 | [RU](https://dump-kazan.ru/) |
 | [#UFADEVCONF](http://dc.ufacoder.com/) | Уфа | 30 ноября, 2019 | … | [RU](mailto:info@ufacoder.com) |
 
 ### Декабрь
