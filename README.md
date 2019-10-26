@@ -13,12 +13,6 @@
 
 ## 2019
 
-### Октябрь
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [FrontDays](https://frontdays.ru/) | Тольятти | 26 октября, 2019 | … | [RU](https://docs.google.com/forms/d/e/1FAIpQLSdr_JoPmEpI9skzVM60lCgQPOyuVspYOHETXI5tbRdeunQgGQ/viewform) |
-
 ### Ноябрь
 
 | Конференция | Место | Дата | Дедлайн | CFP |
