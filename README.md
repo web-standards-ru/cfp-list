@@ -13,13 +13,6 @@
 
 ## 2019
 
-### Ноябрь
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [DevFest Khabarovsk](https://www.meetup.com/ru-RU/GDG-Khabarovsk/events/262328150/) | Хабаровск | 2-3 ноября, 2019 | … | [RU, EN](https://docs.google.com/forms/d/e/1FAIpQLScM3_VgJ2RwPhgID239rBqi1vW1DM45QWiwg3nUluI5WHsEvQ/viewform) |
-| [#UFADEVCONF](http://dc.ufacoder.com/) | Уфа | 30 ноября, 2019 | … | [RU](mailto:info@ufacoder.com) |
-
 ### Декабрь
 
 | Конференция | Место | Дата | Дедлайн | CFP |
