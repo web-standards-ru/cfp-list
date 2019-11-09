@@ -19,6 +19,7 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [React Native & React Camp](http://2019.reactnative.com.ua/) | Киев | 7 декабря, 2019 | … | [UA, RU, EN](http://2019.reactnative.com.ua/call-for-paper) |
 | [Web Standards Days](https://wsd.events/2019/12/07/) | Минск | 7 декабря, 2019 | … | [RU](https://wsd.events/2019/12/07/) |
+| [chernivtsi.min.js #5](https://www.facebook.com/events/719799635191372/) | Черновцы | 7 декабря, 2019 | … | [UA, RU, EN](https://forms.gle/FzpDAUjrm9eAuxA59) |
 
 ## 2020
 
