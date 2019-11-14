@@ -29,6 +29,12 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Я ❤ Фронтенд 2020](https://yandex.ru/promo/yandex4developers/yalovefrontend) | Москва | 29 февраля, 2020 | 10 января, 2020 | [RU](https://forms.yandex.ru/surveys/10014745/) |
 
+### Март
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [JavaScript fwdays'20](https://fwdays.com/en/event/js-fwdays-2020) | Киев | 14 марта, 2020 | 17 декабря, 2019 | [UA, RU, EN](https://docs.google.com/forms/d/e/1FAIpQLSdx1Vz-A7d5T0LoVV0cs5KzMTSYrRLEmmYFANQYIPrlwKgZ4Q/viewform) |
+
 ### Апрель
 
 | Конференция | Место | Дата | Дедлайн | CFP |
