@@ -27,7 +27,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [Я ❤ Фронтенд 2020](https://yandex.ru/promo/yandex4developers/yalovefrontend) | Москва | 29 февраля, 2020 | … | [RU](https://forms.yandex.ru/surveys/10014745/) |
+| [Я ❤ Фронтенд 2020](https://yandex.ru/promo/yandex4developers/yalovefrontend) | Москва | 29 февраля, 2020 | 10 января, 2020 | [RU](https://forms.yandex.ru/surveys/10014745/) |
 
 ### Апрель
 
