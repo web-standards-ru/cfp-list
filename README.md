@@ -34,6 +34,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [JavaScript fwdays'20](https://fwdays.com/en/event/js-fwdays-2020) | Киев | 14 марта, 2020 | 17 декабря, 2019 | [UA, RU, EN](https://docs.google.com/forms/d/e/1FAIpQLSdx1Vz-A7d5T0LoVV0cs5KzMTSYrRLEmmYFANQYIPrlwKgZ4Q/viewform) |
+| [Frontend Conf](https://frontendconf.ru/moscow/2020) | Москва | 19—20 марта, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-moscow) |
 
 ### Апрель
 
@@ -48,4 +49,9 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [RndTech Conf](http://rndtech.pro/) | Ростов-на-Дону | май, 2020 | … | [RU](https://forms.yandex.ru/u/5d4f098043989655231b955c/) |
 | [DUMP](https://dump-ekb.ru/) | Екатеринбург | 15 мая, 2020 | … | [RU](https://dump-ekb.ru/) |
+| [Frontend Conf (РИТ++)](http://ritfest.ru/2020) | Москва | 27—28 мая, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3drit2020) |
+
+### Сентябрь
+
+| [Frontend Conf](https://frontendconf.ru/spb/2020) | Санкт-Петербург | сентябрь, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-spb) |
 
