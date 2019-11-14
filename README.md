@@ -39,6 +39,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [JSFest](https://jsfest.com.ua/) | Киев | 3—4 апреля, 2020 | 25 февраля, 2020 | [UA, RU](https://jsfest.com.ua/speakers.html), [EN](https://jsfest.com.ua/speakers_eng.html) |
 | [HolyJS Piter](https://holyjs-piter.ru/) | Санкт-Петербург | 10—11 апреля, 2020 | … | [RU](https://holyjs-piter.ru/callforpapers/), [EN](https://holyjs-piter.ru/en/callforpapers/) |
 
 ### Май
