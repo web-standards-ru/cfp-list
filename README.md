@@ -53,5 +53,7 @@
 
 ### Сентябрь
 
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Frontend Conf](https://frontendconf.ru/spb/2020) | Санкт-Петербург | сентябрь, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-spb) |
 
