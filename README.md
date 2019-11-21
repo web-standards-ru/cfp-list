@@ -35,6 +35,7 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [JavaScript fwdays'20](https://fwdays.com/en/event/js-fwdays-2020) | Киев | 14 марта, 2020 | 17 декабря, 2019 | [UA, RU, EN](https://docs.google.com/forms/d/e/1FAIpQLSdx1Vz-A7d5T0LoVV0cs5KzMTSYrRLEmmYFANQYIPrlwKgZ4Q/viewform) |
 | [Frontend Conf](https://frontendconf.ru/moscow/2020) | Москва | 19—20 марта, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-moscow) |
+| [CodeFest](https://2020.codefest.ru/) | Новосибирск | 28—29 марта, 2020 | … | [RU](https://2020.codefest.ru/speakers/ru/call-for-papers/), [EN](https://2020.codefest.ru/speakers/en/call-for-papers/) |
 
 ### Апрель
 
