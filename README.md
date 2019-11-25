@@ -17,8 +17,6 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [React Native & React Camp](http://2019.reactnative.com.ua/) | Киев | 7 декабря, 2019 | … | [UA, RU, EN](http://2019.reactnative.com.ua/call-for-paper) |
-| [Web Standards Days](https://wsd.events/2019/12/07/) | Минск | 7 декабря, 2019 | … | [RU](https://wsd.events/2019/12/07/) |
 | [chernivtsi.min.js #5](https://www.facebook.com/events/719799635191372/) | Черновцы | 7 декабря, 2019 | … | [UA, RU, EN](https://forms.gle/FzpDAUjrm9eAuxA59) |
 
 ## 2020
@@ -56,5 +54,5 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [Frontend Conf](https://frontendconf.ru/spb/2020) | Санкт-Петербург | сентябрь, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-spb) |
+| [Frontend Conf](https://frontendconf.ru/spb/2020) | Санкт-Петербург | 5 сентября, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-spb) |
 
