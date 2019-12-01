@@ -50,6 +50,12 @@
 | [DUMP](https://dump-ekb.ru/) | Екатеринбург | 15 мая, 2020 | … | [RU](https://dump-ekb.ru/) |
 | [Frontend Conf (РИТ++)](http://ritfest.ru/2020) | Москва | 27—28 мая, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3drit2020) |
 
+### Июнь
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [UWDC](https://uwdc.ru/#uwdc2020) | Челябинск | июнь, 2020 | … | [RU](mailto://ya@sitko.ru) |
+
 ### Сентябрь
 
 | Конференция | Место | Дата | Дедлайн | CFP |
