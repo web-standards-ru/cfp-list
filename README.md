@@ -18,6 +18,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Я ❤ Frontend](https://yandex.ru/promo/yandex4developers/yalovefrontend) | Москва, Россия | 9 февраля, 2019 | 9 февраля, 2019 | [RU](https://forms.yandex.ru/surveys/9685/) |
+| [Tver.io JavaScript Meetup](https://tver.io/) | Тверь, Россия | 20 февраля, 2019 | 20 февраля, 2019 | [RU](https://forms.gle/2FhtDmUYk8wENPwX9) |
 
 ### Март
 
