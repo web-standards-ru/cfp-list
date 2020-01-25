@@ -49,6 +49,12 @@
 | [UWDC](https://uwdc.ru/#uwdc2020) | Челябинск | июнь, 2020 | … | [RU](mailto://ya@sitko.ru) |
 | [ChernivtsiJS 2020](https://chernivtsi.js.org) | Черновцы | 20 июня, 2020 | … | [UK, EN, RU](https://forms.gle/vvY1PiCqLKfK5fEK7) |
 
+### Июль
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [OdessaJS'2020](http://odessajs.org) | Одесса | 4—5 июля, 2020 | 28 февраля, 2020 | [UK, EN, RU](https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform) |
+
 ### Сентябрь
 
 | Конференция | Место | Дата | Дедлайн | CFP |
