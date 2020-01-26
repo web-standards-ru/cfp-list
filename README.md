@@ -38,6 +38,8 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [RndTech Conf](http://rndtech.pro/) | Ростов-на-Дону | май, 2020 | … | [RU](https://forms.yandex.ru/u/5d4f098043989655231b955c/) |
 | [DUMP](https://dump-ekb.ru/) | Екатеринбург | 15 мая, 2020 | … | [RU](https://dump-ekb.ru/) |
+| [SECON](https://2020.secon.ru/) | Пенза | 15—16 мая, 2020 | … | [RU](https://2020.secon.ru/account/add_report) |
+| [Стачка](https://nastachku.ru/) | Ульяновск | 22—24 мая, 2020 | … | [RU](https://nastachku.ru/index.php?dispatch=sd_user_profile.update_report) |
 | [Frontend Conf (РИТ++)](http://ritfest.ru/2020) | Москва | 27—28 мая, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3drit2020) |
 | [Voxxed Days Minsk 2019](https://voxxeddays.com/minsk/) | Минск | 28 мая — 1 июня, 2020 | 29 февраля, 2020 | [BY, EN, RU](https://vxdminsk2020.cfp.dev/) |
 
