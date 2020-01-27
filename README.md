@@ -23,7 +23,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [CodeFest](https://2020.codefest.ru/) | Новосибирск | 28—29 марта, 2020 | … | [RU](https://2020.codefest.ru/speakers/ru/call-for-papers/), [EN](https://2020.codefest.ru/speakers/en/call-for-papers/) |
+| [CodeFest](https://2020.codefest.ru/) | Новосибирск | 28—29 марта, 2020 | 15 февраля, 2020 | [RU](https://2020.codefest.ru/speakers/ru/call-for-papers/), [EN](https://2020.codefest.ru/speakers/en/call-for-papers/) |
 
 ### Апрель
 
