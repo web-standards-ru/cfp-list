@@ -29,6 +29,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [SouthConf](https://southconf.ru/) | Ростов-на-Дону | апрель, 2020 | … | [RU](https://docs.google.com/forms/d/e/1FAIpQLSf2oLKtxpHIPpN04zSsV7mQBRI0sLdPOUjhUd1FyueD6X4xGA/viewform) |
 | [JSFest](https://jsfest.com.ua/) | Киев | 3—4 апреля, 2020 | 25 февраля, 2020 | [UK, RU](https://jsfest.com.ua/speakers.html), [EN](https://jsfest.com.ua/speakers_eng.html) |
 | [HolyJS Piter](https://holyjs-piter.ru/) | Санкт-Петербург | 10—11 апреля, 2020 | … | [RU](https://holyjs-piter.ru/callforpapers/), [EN](https://holyjs-piter.ru/en/callforpapers/) |
 
@@ -41,7 +42,7 @@
 | [SECON](https://2020.secon.ru/) | Пенза | 15—16 мая, 2020 | … | [RU](https://2020.secon.ru/account/add_report) |
 | [Стачка](https://nastachku.ru/) | Ульяновск | 22—24 мая, 2020 | … | [RU](https://nastachku.ru/index.php?dispatch=sd_user_profile.update_report) |
 | [Frontend Conf (РИТ++)](http://ritfest.ru/2020) | Москва | 27—28 мая, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3drit2020) |
-| [Voxxed Days Minsk 2019](https://voxxeddays.com/minsk/) | Минск | 28 мая — 1 июня, 2020 | 29 февраля, 2020 | [BY, EN, RU](https://vxdminsk2020.cfp.dev/) |
+| [Voxxed Days Minsk](https://voxxeddays.com/minsk/) | Минск | 28 мая — 1 июня, 2020 | 29 февраля, 2020 | [BY, EN, RU](https://vxdminsk2020.cfp.dev/) |
 
 ### Июнь
 
