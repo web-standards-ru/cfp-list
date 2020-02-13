@@ -37,7 +37,6 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [RndTech Conf](http://rndtech.pro/) | Ростов-на-Дону | 23 мая, 2020 | … | [RU](https://forms.yandex.ru/u/5d4f098043989655231b955c/) |
 | [DUMP](https://dump-ekb.ru/) | Екатеринбург | 15 мая, 2020 | … | [RU](https://dump-ekb.ru/) |
 | [SECON](https://2020.secon.ru/) | Пенза | 15—16 мая, 2020 | … | [RU](https://2020.secon.ru/account/add_report) |
 | [Стачка](https://nastachku.ru/) | Ульяновск | 22—24 мая, 2020 | … | [RU](https://nastachku.ru/index.php?dispatch=sd_user_profile.update_report) |
