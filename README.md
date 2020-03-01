@@ -16,10 +16,9 @@
 ### Апрель
 
 | Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [SouthConf](https://southconf.ru/) | Ростов-на-Дону | апрель, 2020 | … | [RU](https://docs.google.com/forms/d/e/1FAIpQLSf2oLKtxpHIPpN04zSsV7mQBRI0sLdPOUjhUd1FyueD6X4xGA/viewform) |
-| [JSFest](https://jsfest.com.ua/) | Киев | 3—4 апреля, 2020 | 25 февраля, 2020 | [UK, RU](https://jsfest.com.ua/speakers.html), [EN](https://jsfest.com.ua/speakers_eng.html) |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |(https://docs.google.com/forms/d/e/1FAIpQLSf2oLKtxpHIPpN04zSsV7mQBRI0sLdPOUjhUd1FyueD6X4xGA/viewform) |
 | [NodeConf 2020 Armenia](https://nodeconf.am/) | Ереван | 25 апреля, 2020 | 8 марта, 2020 | [EN, HY, RU](https://docs.google.com/forms/d/e/1FAIpQLSe99ai661otmnss1Ihia5nwTxcsZ20alAVUfezZdGIfzWCMHg/viewform) |
+| [SouthConf](https://southconf.ru/) | Ростов-на-Дону | 26 апреля, 2020 | … | [RU]
 
 ### Май
 
