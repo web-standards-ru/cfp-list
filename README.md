@@ -29,6 +29,7 @@
 | [Стачка](https://nastachku.ru/) | Ульяновск | 22—24 мая, 2020 | … | [RU](https://nastachku.ru/index.php?dispatch=sd_user_profile.update_report) |
 | [Frontend Conf (РИТ++)](http://ritfest.ru/2020) | Москва | 27—28 мая, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3drit2020) |
 | [Voxxed Days Minsk](https://voxxeddays.com/minsk/) | Минск | 28 мая — 1 июня, 2020 | 29 февраля, 2020 | [BY, EN, RU](https://vxdminsk2020.cfp.dev/) |
+| [Krasnodar Frontend miniConf](https://krd.dev/events/21) | Краснодар | 31 мая, 2020 | … | [RU](https://forms.yandex.ru/u/5adc61cf6162d77e2714831c/?from_connect=1) |
 
 ### Июнь
 
@@ -49,4 +50,11 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Frontend Conf](https://frontendconf.ru/moscow/2020) | Москва | 5 сентября, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-moscow) |
+
+
+### Ноябрь
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [DUMP Казань](https://dump-kazan.ru/) | Казань | ноябрь, 2020 | … | [RU](https://dump-kazan.ru/) |
 
