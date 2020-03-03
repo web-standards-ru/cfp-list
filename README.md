@@ -57,4 +57,5 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [DUMP Казань](https://dump-kazan.ru/) | Казань | ноябрь, 2020 | … | [RU](https://dump-kazan.ru/) |
+| [DevFest Siberia 2020](https://gdg-siberia.com/) | Новосибирск | 21 ноября, 2020 | … | [RU, EN](https://www.papercall.io/dfsiberia20) |
 
