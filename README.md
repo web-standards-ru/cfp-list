@@ -41,7 +41,6 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [OdessaJS'2020](http://odessajs.org) | Одесса | 4—5 июля, 2020 | 28 февраля, 2020 | [UK, EN, RU](https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform) |
 | [VinnytsiaJS 2020](http://vinnytsiajs.org/) | Винница | 25 июля, 2020 | … | [UK, EN, RU](https://docs.google.com/forms/d/e/1FAIpQLSf5tFT1fIOAA7eKnuVLZylTx-kWHkszbfEJZCo9juq_yyGmRQ/viewform) |
 
 ### Сентябрь
