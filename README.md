@@ -58,6 +58,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [DUMP Казань](https://dump-kazan.ru/) | Казань | ноябрь, 2020 | … | [RU](https://dump-kazan.ru/) |
+| [HolyJS Moscow](https://holyjs-moscow.ru/) | Москва | 13—14 ноября, 2020 | … | [RU](https://holyjs-moscow.ru/callforpapers/), [EN](https://holyjs-moscow.ru/en/callforpapers/) |
 | [DUMP](https://dump-ekb.ru/) | Екатеринбург | 20 ноября, 2020 | … | [RU](https://dump-ekb.ru/) |
 | [DevFest Siberia 2020](https://gdg-siberia.com/) | Новосибирск | 21 ноября, 2020 | … | [RU, EN](https://www.papercall.io/dfsiberia20) |
 
