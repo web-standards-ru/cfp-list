@@ -13,12 +13,6 @@
 
 ## 2020
 
-### Апрель
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [NodeConf 2020 Armenia](https://nodeconf.am/) | Ереван | 25 апреля, 2020 | 15 марта, 2020 | [EN, HY, RU](https://docs.google.com/forms/d/e/1FAIpQLSe99ai661otmnss1Ihia5nwTxcsZ20alAVUfezZdGIfzWCMHg/viewform) |
-
 ### Май
 
 | Конференция | Место | Дата | Дедлайн | CFP |
