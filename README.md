@@ -39,7 +39,7 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [Frontend Conf](https://frontendconf.ru/moscow/2020) | Москва | 4—5 сентября, 2020 | 25 марта, 2020  | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-moscow) |
+| [Frontend Conf](https://frontendconf.ru/moscow/2020) | Москва | 4—5 сентября, 2020 | 22 апреля, 2020  | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-moscow) |
 | [Город IT](https://gorod.it/) | Томск | 11—12 сентября, 2020 | … | [RU](https://gorod.it/) |
 
 ### Октябрь
