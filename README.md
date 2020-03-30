@@ -20,7 +20,6 @@
 | [SECON](https://2020.secon.ru/) | Пенза | 15—16 мая, 2020 | … | [RU](https://2020.secon.ru/account/add_report) |
 | [Стачка](https://nastachku.ru/) | Ульяновск | 22—24 мая, 2020 | … | [RU](https://nastachku.ru/index.php?dispatch=sd_user_profile.update_report) |
 | [Frontend Conf (РИТ++)](http://ritfest.ru/2020) | Москва | 25—26 мая, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3drit2020) |
-| [Krasnodar Frontend miniConf](https://krd.dev/events/21) | Краснодар | 31 мая, 2020 | … | [RU](https://forms.yandex.ru/u/5adc61cf6162d77e2714831c/?from_connect=1) |
 
 ### Июнь
 
