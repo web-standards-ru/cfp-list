@@ -17,7 +17,6 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [SECON](https://2020.secon.ru/) | Пенза | 15—16 мая, 2020 | … | [RU](https://2020.secon.ru/account/add_report) |
 | [Стачка](https://nastachku.ru/) | Ульяновск | 22—24 мая, 2020 | … | [RU](https://nastachku.ru/index.php?dispatch=sd_user_profile.update_report) |
 | [Frontend Conf (РИТ++)](http://ritfest.ru/2020) | Москва | 25—26 мая, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3drit2020) |
 
@@ -33,6 +32,12 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [VinnytsiaJS 2020](http://vinnytsiajs.org/) | Винница | 25 июля, 2020 | … | [UK, EN, RU](https://docs.google.com/forms/d/e/1FAIpQLSf5tFT1fIOAA7eKnuVLZylTx-kWHkszbfEJZCo9juq_yyGmRQ/viewform) |
+
+### Август
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [SECON](https://2020.secon.ru/) | Пенза | 14—15 августа, 2020 | … | [RU](https://2020.secon.ru/account/add_report) |
 
 ### Сентябрь
 
