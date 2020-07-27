@@ -13,26 +13,6 @@
 
 ## 2020
 
-### Май
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [Стачка](https://nastachku.ru/) | Ульяновск | 22—24 мая, 2020 | … | [RU](https://nastachku.ru/index.php?dispatch=sd_user_profile.update_report) |
-| [Frontend Conf (РИТ++)](http://ritfest.ru/2020) | Москва | 25—26 мая, 2020 | … | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3drit2020) |
-
-### Июнь
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [UWDC](https://uwdc.ru/#uwdc2020) | Челябинск | июнь, 2020 | … | [RU](mailto://ya@sitko.ru) |
-| [ChernivtsiJS 2020](https://chernivtsi.js.org) | Черновцы | 20 июня, 2020 | … | [UK, EN, RU](https://forms.gle/vvY1PiCqLKfK5fEK7) |
-
-### Июль
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [VinnytsiaJS 2020](http://vinnytsiajs.org/) | Винница | 25 июля, 2020 | … | [UK, EN, RU](https://docs.google.com/forms/d/e/1FAIpQLSf5tFT1fIOAA7eKnuVLZylTx-kWHkszbfEJZCo9juq_yyGmRQ/viewform) |
-
 ### Август
 
 | Конференция | Место | Дата | Дедлайн | CFP |
@@ -43,13 +23,14 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [Frontend Conf](https://frontendconf.ru/moscow/2020) | Москва | 4—5 сентября, 2020 | 22 апреля, 2020  | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-moscow) |
 | [Город IT](https://gorod.it/) | Томск | 11—12 сентября, 2020 | … | [RU](https://gorod.it/) |
+| [Frontend Live](https://frontendconf.ru/moscow/2020) | Москва | 23 сентября — 2 октября, 2020 | …  | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-conf-online) |
 
 ### Октябрь
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [UIC Dev](https://www.uic.dev/) | Ижевск | 19 октября, 2020 | … | [RU](https://docs.google.com/forms/d/135RUsjlecR2NGFC0-AQDGUDKHhn2akYqyjv1_YVzS0U/viewform?edit_requested=true) |
 | [Voxxed Days Minsk](https://voxxeddays.com/minsk/) | Минск | 29 октября — 1 ноября, 2020 | … | [BY, EN, RU](https://vxdminsk2020.cfp.dev/) |
 
 ### Ноябрь
@@ -57,7 +38,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [DUMP Казань](https://dump-kazan.ru/) | Казань | ноябрь, 2020 | … | [RU](https://dump-kazan.ru/) |
-| [HolyJS Moscow](https://holyjs-moscow.ru/) | Москва | 13—14 ноября, 2020 | … | [RU](https://holyjs-moscow.ru/callforpapers/), [EN](https://holyjs-moscow.ru/en/callforpapers/) |
-| [DUMP](https://dump-ekb.ru/) | Екатеринбург | 20 ноября, 2020 | … | [RU](https://dump-ekb.ru/) |
+| [DUMP](https://dump-ekb.ru/) | Екатеринбург | 20 ноября, 2020 | … | [RU](https://dump-ekb.ru/for_speakers#podat_doklad) |
 | [DevFest Siberia 2020](https://gdg-siberia.com/) | Новосибирск | 21 ноября, 2020 | … | [RU, EN](https://www.papercall.io/dfsiberia20) |
+| [HolyJS Moscow](https://holyjs-moscow.ru/) | Москва | 25—28 ноября, 2020 | … | [RU](https://holyjs-moscow.ru/callforpapers/), [EN](https://holyjs-moscow.ru/en/callforpapers/) |
 
