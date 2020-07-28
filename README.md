@@ -18,6 +18,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [SECON](https://2020.secon.ru/) | Пенза | 14—15 августа, 2020 | … | [RU](https://2020.secon.ru/account/add_report) |
+| [VinnytsiaJS 2020](http://vinnytsiajs.org/) | Винница | 15 августа, 2020 | … | [UK, EN, RU](https://docs.google.com/forms/d/e/1FAIpQLSf5tFT1fIOAA7eKnuVLZylTx-kWHkszbfEJZCo9juq_yyGmRQ/viewform) |
 
 ### Сентябрь
 
@@ -25,12 +26,12 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Город IT](https://gorod.it/) | Томск | 11—12 сентября, 2020 | … | [RU](https://gorod.it/) |
 | [Frontend Live](https://frontendconf.ru/moscow/2020) | Москва | 23 сентября — 2 октября, 2020 | …  | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-conf-online) |
+| [UIC Dev](https://www.uic.dev/) | Ижевск | конец сентября, 2020 | … | [RU](https://docs.google.com/forms/d/135RUsjlecR2NGFC0-AQDGUDKHhn2akYqyjv1_YVzS0U/viewform?edit_requested=true) |
 
 ### Октябрь
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [UIC Dev](https://www.uic.dev/) | Ижевск | 19 октября, 2020 | … | [RU](https://docs.google.com/forms/d/135RUsjlecR2NGFC0-AQDGUDKHhn2akYqyjv1_YVzS0U/viewform?edit_requested=true) |
 | [Voxxed Days Minsk](https://voxxeddays.com/minsk/) | Минск | 29 октября — 1 ноября, 2020 | … | [BY, EN, RU](https://vxdminsk2020.cfp.dev/) |
 
 ### Ноябрь
