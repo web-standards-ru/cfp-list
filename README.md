@@ -17,7 +17,6 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [SECON](https://2020.secon.ru/) | Пенза | 14—15 августа, 2020 | … | [RU](https://2020.secon.ru/account/add_report) |
 | [VinnytsiaJS 2020](http://vinnytsiajs.org/) | Винница | 15 августа, 2020 | … | [UK, EN, RU](https://docs.google.com/forms/d/e/1FAIpQLSf5tFT1fIOAA7eKnuVLZylTx-kWHkszbfEJZCo9juq_yyGmRQ/viewform) |
 
 ### Сентябрь
