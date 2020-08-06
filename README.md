@@ -25,7 +25,7 @@
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Город IT](https://gorod.it/) | Томск | 11—12 сентября, 2020 | … | [RU](https://gorod.it/) |
 | [Frontend Live](https://frontendconf.ru/moscow/2020) | Москва | 23 сентября — 2 октября, 2020 | …  | [RU](https://conf.ontico.ru/users/login.html?url=/lectures/propose%3fconference%3dfc2020-conf-online) |
-| [UIC Dev](https://www.uic.dev/) | Ижевск | конец сентября, 2020 | … | [RU](https://docs.google.com/forms/d/135RUsjlecR2NGFC0-AQDGUDKHhn2akYqyjv1_YVzS0U/viewform?edit_requested=true) |
+| [UIC Dev](https://www.uic.dev/) | Ижевск | 26 сентября, 2020 | … | [RU](https://docs.google.com/forms/d/135RUsjlecR2NGFC0-AQDGUDKHhn2akYqyjv1_YVzS0U/viewform?edit_requested=true) |
 
 ### Октябрь
 
