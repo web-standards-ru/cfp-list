@@ -13,12 +13,6 @@
 
 ## 2020
 
-### Август
-
-| Конференция | Место | Дата | Дедлайн | CFP |
-| ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [VinnytsiaJS 2020](http://vinnytsiajs.org/) | Винница | 15 августа, 2020 | … | [UK, EN, RU](https://docs.google.com/forms/d/e/1FAIpQLSf5tFT1fIOAA7eKnuVLZylTx-kWHkszbfEJZCo9juq_yyGmRQ/viewform) |
-
 ### Сентябрь
 
 | Конференция | Место | Дата | Дедлайн | CFP |
