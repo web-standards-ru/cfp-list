@@ -32,6 +32,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [Voxxed Days Minsk](https://voxxeddays.com/minsk/) | Минск | 29 октября — 1 ноября, 2020 | … | [BY, EN, RU](https://vxdminsk2020.cfp.dev/) |
+| [JS Fest 2020](https://jsfest.com.ua/) | Киев | 30—31 октября, 2020 | … | [UK, RU](https://jsfest.com.ua/speakers.html), [EN](https://jsfest.com.ua/speakers_eng.html) |
 
 ### Ноябрь
 
