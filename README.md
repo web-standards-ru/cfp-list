@@ -18,7 +18,7 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [DevFest Siberia 2020](https://gdg-siberia.com/) | Новосибирск | 21 ноября, 2020 | … | [RU, EN](https://www.papercall.io/dfsiberia20) |
-| [HolyJS Moscow](https://holyjs-moscow.ru/) | Москва | 25—28 ноября, 2020 | … | [RU](https://holyjs-moscow.ru/callforpapers/), [EN](https://holyjs-moscow.ru/en/callforpapers/) |
+| [HolyJS](https://holyjs-moscow.ru/) | Онлайн | 25—28 ноября, 2020 | … | [RU](https://holyjs-moscow.ru/callforpapers/), [EN](https://holyjs-moscow.ru/en/callforpapers/) |
 
 ## 2021
 
@@ -27,3 +27,11 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [DUMP](https://dump-ekb.ru/) | Екатеринбург | 14 мая, 2021 | … | [RU](https://dump-ekb.ru/for_speakers#podat_doklad) |
+| [Secon](https://2020.secon.ru/) | Пенза | 14—15 мая, 2021 | … | [RU](https://2020.secon.ru/account/add_report) |
+
+
+### Сентябрь
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [404fest](https://2021.404fest.ru/) | Самара | сентябрь, 2021 | … | [RU](https://docs.google.com/forms/d/1aHjrmewR-wgYl6CBJnZszANeNj4tutr5ASfYx2Ov9CY/viewform?edit_requested=true) |
