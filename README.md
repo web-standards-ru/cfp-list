@@ -39,3 +39,10 @@
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
 | [404fest](https://2021.404fest.ru/) | Самара | сентябрь, 2021 | … | [RU](https://docs.google.com/forms/d/1aHjrmewR-wgYl6CBJnZszANeNj4tutr5ASfYx2Ov9CY/viewform?edit_requested=true) |
+
+
+### Декабрь
+
+| Конференция | Место | Дата | Дедлайн | CFP |
+| ---------- | -------- | ---- | ------------------- | ------------------------ |
+| [VideoTech 2021](https://vtconf.com/) | Онлайн | 1-3 декабря, 2021 | … | [RU](https://vtconf.com/callforpapers/), [EN](https://vtconf.com/en/callforpapers/) |
