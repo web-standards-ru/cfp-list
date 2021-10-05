@@ -45,4 +45,4 @@
 
 | Конференция | Место | Дата | Дедлайн | CFP |
 | ---------- | -------- | ---- | ------------------- | ------------------------ |
-| [VideoTech 2021](https://vtconf.com/) | Онлайн | 1-3 декабря, 2021 | … | [RU](https://vtconf.com/callforpapers/), [EN](https://vtconf.com/en/callforpapers/) |
+| [VideoTech 2021](https://vtconf.com/) | Онлайн | 1-3 декабря, 2021 | 15 октября | [RU](https://vtconf.com/callforpapers/), [EN](https://vtconf.com/en/callforpapers/) |
